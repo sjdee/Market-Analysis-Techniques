@@ -10,6 +10,7 @@ Graph Data can also be found at: https://docs.google.com/spreadsheets/d/1Wl5Liav
 ### Extraction
 
 * transform.ipynb
+* Sector_Name_Calculation.ipynb
 
 ### Classifiers
 
