@@ -21,7 +21,7 @@ These files can be configured to operate either on the entire dataset or perform
 * check_each_sector: Perform a sector wise analysis if True
 * less_columns: Use only the columns selected after Feature Selection if True
 * minify: output only the precsion for buy signals, recall for sell signals and overall accuracy instead of the entire sklearn classification report if True
-* print_data = prints the output as the classifier is run if True
+* print_data: prints the output as the classifier is run if True
 
 ### Feature Elimination 
 * PCA.ipynb
